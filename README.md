@@ -5,7 +5,7 @@ Remember to install grim for screenshots (they will get redirected to your Pictu
 
 If you're interested using it, place the config file in the directory/folder "~/.config/sway/".
 
-I encourage to read it and understand it, I emphasize that is just the default one.
+I encourage to read it and understand it, I emphasize that is just the default one. But dont think much about it if you cant see the logic, you will eventually figure it out.
 # In archlinux
   sudo pacman -S grim brightnessctl pavucontrol waybar
 # In debian (I guess)
