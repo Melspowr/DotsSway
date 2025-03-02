@@ -2,10 +2,14 @@ Pleeeeeeeease, just ignore the license file and the readme, they are not useful 
 # DotsSway
 Simply my sway config. Its the default one with some changes and waybar implementation and a shortcut for pavucontrol with $mod(homekey)+Shift+v.
 Remember to install grim for screenshots (they will get redirected to your Pictures folder) and brightnessctl for changing the brightness of you screen with your keys.
+
+If you're interested using it, place the config file in the directory/folder "~/.config/sway/".
+
+I encourage to read it and understand it, I emphasize that is just the default one.
 # In archlinux
-  sudo pacman -S grim brightnessctl pavucontrol
+  sudo pacman -S grim brightnessctl pavucontrol waybar
 # In debian (I guess)
-  sudo apt install grim brightnessctl pavucontrol
+  sudo apt install grim brightnessctl pavucontrol waybar
 
 
 I actually don't know what I'm doing, I'm bored.
